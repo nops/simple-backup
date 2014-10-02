@@ -3,7 +3,7 @@
 #title        :clean.sh
 #description: :Delete old files from backups
 #author       :nops <https://github.com/nops>
-#version      :0.1
+#version      :0.2
 
 source config.cfg
 
