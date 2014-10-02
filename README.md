@@ -32,8 +32,8 @@ A simple and useful shell script to backup mysql databases.
     * Default: `7`
 
 
-* `SB_MYSQL_BIN_FOLDER`
-
+* `SB_MYSQL_BIN_FOLDER`: Mysql bin folder
+    * Default: `''` (empty)
 
 * `SB_MYSQL_HOST`: Mysql host address
     * Default: `localhost`
